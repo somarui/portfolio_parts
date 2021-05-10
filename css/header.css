@@ -1,0 +1,19 @@
+/* header */
+.h-imglogo,.h-img1,.h-img2,.h-img3,.h-img4,.h-img5,.h-img6,.h-img7,.h-img8,.h-img9,.h-img10{
+  display: inline-block;
+}
+.h-onoff1,.h-onoff2,.h-onoff3,.h-onoff4,.h-onoff5,.h-onoff6,.h-onoff7,.h-onoff8,.h-onoff9,.h-onoff10{
+  background-color: rgb(255,255,255);
+}
+.h-imglogo,.h-img1-sp,.h-img2-sp,.h-img3-sp,.h-img4-sp,.h-img5-sp,.h-img6-sp,.h-img7-sp,.h-img8-sp,.h-img9-sp,.h-img10-sp{
+  display: none;
+}
+.h-onoff1:hover,.h-onoff2:hover,.h-onoff3:hover,.h-onoff4:hover,.h-onoff5:hover,.h-onoff6:hover,.h-onoff7:hover,.h-onoff8:hover,.h-onoff9:hover{
+  background-color: rgb(235,0,127);
+}
+.h-onoff1:hover .h-img1,.h-onoff2:hover .h-img2,.h-onoff3:hover .h-img3,.h-onoff4:hover .h-img4,.h-onoff5:hover .h-img5,.h-onoff6:hover .h-img6,.h-onoff7:hover .h-img7,.h-onoff8:hover .h-img8,.h-onoff9:hover .h-img9{
+  display: none;
+}
+.h-onoff1:hover .h-img1-sp,.h-onoff2:hover .h-img2-sp,.h-onoff3:hover .h-img3-sp,.h-onoff4:hover .h-img4-sp,.h-onoff5:hover .h-img5-sp,.h-onoff6:hover .h-img6-sp,.h-onoff7:hover .h-img7-sp,.h-onoff8:hover .h-img8-sp,.h-onoff9:hover .h-img9-sp{
+  display: inline-block;
+}

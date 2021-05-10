@@ -1,0 +1,114 @@
+/* 県知事ごあいさつ ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding-top:50px!important;
+  padding-bottom: 50px;
+}
+.li-headertitle{
+  width: 100%;
+  height: auto;
+}
+.li-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+.li-maintitle {
+  width: 100px;
+  height: 100px;
+  border: 1px solid rgba(0,35,128);
+  color: rgb(0,35,128);
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 30px;
+  padding: 15px;
+}
+.li-maintitle p {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* 関連リンク| img:写真 h2:タイトル p:挨拶文 */
+.li-mainsec{
+  width: 81%;
+  margin: 0 auto;
+}
+.li-mainsec h2{
+  border-bottom:1px solid rgba(0,35,128);
+  color: rgb(0,35,128);
+  font-weight: 600;
+  margin-bottom: 50px;
+  padding: 5px 0px;
+}
+.li-mainblock1{
+  padding-bottom:30px;
+  margin:0 auto;
+}
+.banner-left{
+  padding-right:40px;
+  padding-bottom:20px;
+  vertical-align: top;
+}
+.banner-right{
+  padding-left:40px;
+  padding-bottom:20px;
+  vertical-align: top;
+}
+
+
+.m-i-btn{
+  color: rgb(0,0,0);
+  background-color: rgb(230,230,230);
+}
+.br-onoff{
+  display: none;
+}
+
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:750px){
+  /* メイン中身 */
+  .gr-maintitle {
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgba(0,35,128);
+    color: rgb(0,35,128);
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    padding: 15px;
+  }
+  .li-maintitle p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .br-onoff{
+    display: inline;
+  }
+  .li-mainsec{
+    width: 90%;
+    margin: 5%;
+    padding:initial;
+  }
+  .li-mainsec p{
+    width: 100%;
+  }
+  .li-mainsec1 p{
+    padding-left:initial;
+
+  }
+  .li-mainsec1 img{
+    width: 350px;
+    height: 150px;
+  }
+}
+/* レスポンシブ対応 590px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:590px){
+
+}

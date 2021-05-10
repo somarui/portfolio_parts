@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.834" height="59.275" viewBox="0 0 57.834 59.275">
+  <g id="グループ_2234" data-name="グループ 2234" transform="translate(-168.125 -39.379)">
+    <text id="学校検索" transform="translate(194.094 97.653)" font-size="9" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="-18" y="0">学校検索</tspan></text>
+    <g id="グループ_2019" data-name="グループ 2019" transform="translate(169.542 40.797)">
+      <g id="グループ_2017" data-name="グループ 2017">
+        <path id="パス_2822" data-name="パス 2822" d="M203.747,49.679V42.85a2.053,2.053,0,0,0-2.053-2.053H183.765a2.044,2.044,0,0,0-2.044,2.044v6.837H171.6a2.055,2.055,0,0,0-2.055,2.055V76.475a2.044,2.044,0,0,0,2.044,2.044h42.295a2.044,2.044,0,0,0,2.044-2.044V51.719a2.041,2.041,0,0,0-2.04-2.04Z" transform="translate(-169.542 -40.797)" fill="#fff" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        <g id="グループ_2016" data-name="グループ 2016" transform="translate(8.066 20.498)">
+          <rect id="長方形_1414" data-name="長方形 1414" width="4.069" height="4.069" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1415" data-name="長方形 1415" width="4.069" height="4.069" transform="translate(8.728)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1416" data-name="長方形 1416" width="4.069" height="4.069" transform="translate(17.456)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1417" data-name="長方形 1417" width="4.069" height="4.069" transform="translate(26.184)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1418" data-name="長方形 1418" width="4.069" height="4.069" transform="translate(0 7.368)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1419" data-name="長方形 1419" width="4.069" height="4.069" transform="translate(8.728 7.368)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1420" data-name="長方形 1420" width="4.069" height="4.069" transform="translate(17.456 7.368)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+          <rect id="長方形_1421" data-name="長方形 1421" width="4.069" height="4.069" transform="translate(26.184 7.368)" fill="#ec007f" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+        </g>
+        <circle id="楕円形_189" data-name="楕円形 189" cx="5.928" cy="5.928" r="5.928" transform="translate(17.264 4.675)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+        <line id="線_869" data-name="線 869" y2="3.101" transform="translate(23.192 7.593)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+        <line id="線_870" data-name="線 870" x1="3.101" transform="translate(23.228 10.694)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.417"/>
+      </g>
+      <g id="グループ_2018" data-name="グループ 2018" transform="translate(22.483 12.753)">
+        <circle id="楕円形_190" data-name="楕円形 190" cx="12.211" cy="12.211" r="12.211" transform="translate(0 23.769) rotate(-76.717)" fill="#fff" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.268"/>
+        <line id="線_871" data-name="線 871" x2="6.406" y2="6.406" transform="translate(24.121 24.121)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.819"/>
+      </g>
+    </g>
+  </g>
+</svg>

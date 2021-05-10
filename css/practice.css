@@ -1,0 +1,125 @@
+
+/* 取得できる様々な資格 ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding:50px 5%!important;
+  box-sizing: border-box;
+}
+.pr-headertitle{
+  width: 100%;
+  height: auto;
+}
+.pr-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+
+/* メイン中身 */
+.pr-maintitle h2{
+  padding-bottom:10px;
+  color: rgb(0,35,128)!important;
+}
+.pr-maintitle{
+  padding:20px;
+  font-weight: 600;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border: 1px solid rgb(0,35,128);
+}
+.pr-maintitle ul{
+  margin: 0 auto;
+  list-style: none;
+}
+.pr-maintitle li{
+  display: inline-block;
+  margin-right: 100px;
+  line-height: 2;
+}
+.pr-maintitle a{
+  text-decoration: none;
+  color: rgb(21,128,252);
+}
+li.pr-nowpage{
+  border-bottom:1px solid #000;
+}
+
+
+/* section1~4 */
+h2{
+  font-size: 20px;
+  color: rgb(0,35,128);
+  font-weight: 600;
+  line-height: 1.5;
+}
+.pr-mainblock1,.pr-mainblock2,.pr-mainblock3,.pr-mainblock4,.pr-mainblock5{
+  padding-bottom:100px;
+}
+.pr-maintitle1,.pr-maintitle2,.pr-maintitle3,.pr-maintitle4,.pr-maintitle5{
+  padding-bottom:10px;
+  margin-bottom:30px;
+  border-bottom: 1px solid rgb(0,35,128);
+}
+.pr-mainsec1-p,.pr-mainsec2-p,.pr-mainsec3-p,.pr-mainsec4-p,.pr-mainsec5-p{
+  vertical-align: top;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+  padding-bottom:50px;
+}
+.pr-mainsec1,.pr-mainsec2,.pr-mainsec3,.pr-mainsec4,.pr-mainsec5{
+  box-sizing: border-box;
+  padding-bottom:30px;
+}
+
+.pr-mainsec1-img{
+  width: 100%;
+  text-align: center;
+  padding-bottom:50px;
+}
+.pr-mainsec1-img img{
+  width: 90%;
+  height: auto;
+}
+.pr-mainsec2-img{
+  width: 100%;
+  text-align: center;
+}
+.pr-mainsec2-img img{
+  width: 90%;
+  height: auto;
+}
+
+.pr-mainsec3-p{
+  display: inline-block;
+  width: 45%;
+}
+.pr-mainsec3-img{
+  width: 44%;
+  padding: 0px 5%;
+  display: inline-block;
+}
+.pr-mainsec3-img img{
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+
+.pr-mainsec4-img{
+  width: 100%;
+  text-align: center;
+}
+.pr-mainsec4-img img{
+  width: 90%;
+  height: auto;
+}
+.pr-mainsec5-img{
+  width: 100%;
+  text-align: center;
+}
+.pr-mainsec5-img img{
+  width: 90%;
+  height: auto;
+}

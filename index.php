@@ -1,0 +1,1 @@
+require( dirname( __FILE__ ) . ‘/dev-wp/front-page.php’ );

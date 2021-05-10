@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.911" height="87.911" viewBox="0 0 87.911 87.911">
+  <g id="グループ_2607" data-name="グループ 2607" transform="translate(-504.805 -440.904)">
+    <rect id="長方形_1665" data-name="長方形 1665" width="87.911" height="87.911" transform="translate(504.805 440.904)" fill="#8c4bb4"/>
+    <text id="旅行_航空_" data-name="旅行・航空・" transform="translate(522.529 507.328)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.024em">旅</tspan><tspan y="0">行・</tspan><tspan y="0" letter-spacing="0.014em">航</tspan><tspan y="0">空・</tspan></text>
+    <text id="ホテル_ブライダル" data-name="ホテル・ブライダル" transform="translate(510.141 519.588)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="-0.056em">ホ</tspan><tspan y="0" letter-spacing="-0.076em">テ</tspan><tspan y="0">ル・</tspan><tspan y="0" letter-spacing="-0.051em">ブ</tspan><tspan y="0" letter-spacing="-0.067em">ラ</tspan><tspan y="0" letter-spacing="-0.164em">イ</tspan><tspan y="0" letter-spacing="-0.06em">ダ</tspan><tspan y="0">ル</tspan></text>
+    <path id="パス_4474" data-name="パス 4474" d="M267.416,153.226c-.782-4.914-2.973-13.762-8.842-17.82a.9.9,0,0,0-.7-.138l-6.124,1.323-6.263-1.229a.879.879,0,0,0-.69.149c-5.764,4.106-7.922,12.861-8.694,17.714a2.566,2.566,0,0,0,2.533,2.972h26.244a2.567,2.567,0,0,0,2.534-2.971m-8.169-8.259h-3.563a.806.806,0,0,1,0-1.612h3.563a.806.806,0,1,1,0,1.612" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4475" data-name="パス 4475" d="M251.74,134.892a8.99,8.99,0,1,1,8.99-8.991,8.908,8.908,0,0,1-.708,3.5.733.733,0,1,1-1.35-.572,7.521,7.521,0,1,0-3.486,3.761.733.733,0,1,1,.674,1.3,9.014,9.014,0,0,1-4.12,1" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4476" data-name="パス 4476" d="M260.3,133.5a.73.73,0,0,1-.411-.126l-4.432-3a.733.733,0,1,1,.822-1.215l3.854,2.606a10.116,10.116,0,0,0,1.846-5.867,10.237,10.237,0,0,0-20.474,0,.734.734,0,0,1-1.468,0,11.705,11.705,0,1,1,20.835,7.325.732.732,0,0,1-.572.274" transform="translate(297 337.002)" fill="#fff"/>
+  </g>
+</svg>

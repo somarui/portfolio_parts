@@ -1,0 +1,154 @@
+/* 協会について ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding-top:50px!important;
+  padding-bottom: 50px;
+}
+.au-headertitle{
+  width: 100%;
+  height: auto;
+}
+.au-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+.au-maintitle {
+  width: 100px;
+  height: 100px;
+  border: 1px solid rgba(0,35,128);
+  color: rgb(0,35,128);
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 30px;
+  padding: 15px;
+}
+.au-maintitle p {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* ごあいさつ| img:写真 h2:タイトル p:挨拶文 */
+.au-mainsec{
+  display: inline-block;
+  padding: 15px 30px;
+  width: 85%;
+  box-sizing: border-box;
+}
+.au-mainsec h2{
+  border-bottom:1px solid rgba(0,35,128);
+  color: rgb(0,35,128);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.au-mainsec p{
+  font-size: 14px;
+  line-height: 1.5;
+}
+.au-mainsec1 span {
+  font-size: 14px;
+}
+.au-mainsec1img{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.au-mainsec1img img{
+  width: 100%;
+  padding-bottom:20px;
+}
+.au-mainsec1 p{
+  display: inline-block;
+  width: 60%;
+  padding-left:20px;
+  vertical-align: top;
+  line-height: 1.6;
+  letter-spacing: 0.05em;
+}
+.au-mainblock1,.au-mainblock2,.au-mainblock3,.au-mainblock4,.au-mainblock5{
+  padding-bottom:30px;
+}
+h2{
+  padding: 5px 0px;
+}
+.au-mainsec3 p{
+  padding-bottom:30px;
+  line-height: 1.5;
+}
+
+.m-i-btn{
+  color: rgb(0,0,0);
+  background-color: rgb(230,230,230);
+}
+
+.br-onoff{
+  display: none;
+}
+.au-mainsec5img-sp{
+  display: none;
+}
+
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:750px){
+  /* メイン中身 */
+  .au-maintitle {
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgba(0,35,128);
+    color: rgb(0,35,128);
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    padding: 15px;
+  }
+  .au-maintitle p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .br-onoff{
+    display: inline;
+  }
+  .au-mainsec{
+    width: 90%;
+    margin: 5%;
+    padding:initial;
+  }
+  .au-mainsec p{
+    width: 100%;
+  }
+  .au-mainsec1 p{
+    padding-left:initial;
+
+  }
+
+  .au-mainsec1img{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  .au-mainsec4 img{
+    width: 100%;
+  }
+
+  .au-mainsec5img{
+    display: none;
+  }
+  .au-mainsec5img-sp{
+    display: inline;
+    width: 100%;
+  }
+  .au-mainsec5img-sp img{
+    width: 100%;
+  }
+}
+/* レスポンシブ対応 590px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:590px){
+
+}

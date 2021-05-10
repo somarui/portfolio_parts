@@ -1,0 +1,99 @@
+
+/* 取得できる様々な資格 ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding:50px 5%!important;
+  box-sizing: border-box;
+}
+.qu-headertitle{
+  width: 100%;
+  height: auto;
+}
+.qu-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+.qu-maintitle{
+  padding:20px;
+  font-weight: 600;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border: 1px solid rgb(0,35,128);
+}
+.qu-maintitle h2{
+  padding-bottom:10px;
+  color: rgb(0,35,128);
+}
+.qu-maintitle ul{
+  margin: 0 auto;
+  list-style: none;
+}
+.qu-maintitle li{
+  display: inline-block;
+  margin-right: 100px;
+  line-height: 2;
+}
+.qu-maintitle a{
+  text-decoration: none;
+  color: rgb(21,128,252);
+}
+li.qu-nowpage{
+  border-bottom:1px solid #000;
+}
+
+/* section1~5 */
+.qu-mainblock1,.qu-mainblock2,.qu-mainblock3,.qu-mainblock4,.qu-mainblock5{
+  padding-bottom:100px;
+}
+.qu-maintitle1,.qu-maintitle2,.qu-maintitle3,.qu-maintitle4,.qu-maintitle5{
+  font-size: 20px;
+  padding-bottom:10px;
+  margin-bottom:30px;
+  color: rgb(0,35,128);
+  border-bottom: 1px solid rgb(0,35,128);
+  font-weight: 600;
+  line-height: 1.5;
+}
+.qu-mainsec1-p,.qu-mainsec2-p,.qu-mainsec3-p,.qu-mainsec4-p,.qu-mainsec5-p{
+  vertical-align: top;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+}
+.qu-mainsec1,.qu-mainsec2,.qu-mainsec3,.qu-mainsec4,.qu-mainsec5{
+  box-sizing: border-box;
+  padding-bottom:30px;
+}
+.pink{
+  color:rgb(236,21,126);
+}
+
+/* 表 */
+thead th{
+  padding: 10px 10px;
+  background-color: rgb(118,118,118);
+  color: rgb(255,255,255);
+  font-size:12px;
+  text-align: center;
+
+}
+tbody th{
+  background-color: rgb(172,219,254);
+}
+tbody th{
+  background-color: rgb(172,219,254);
+}
+tbody td{
+  font-size: 12px;
+}
+table td, th {
+  padding: 25px 9px;
+  border-bottom: 1.5px solid rgba(118,118,118,0.8)!important;
+  border-left: 1.5px solid rgba(118,118,118,0.8)!important;
+}
+td span{
+  font-size: 9px;
+}

@@ -1,0 +1,362 @@
+/* 協会について ページ */
+/* //////////////////////////////////////// */
+html{
+  background-color: rgb(172,219,255)!important;
+}
+.container{
+  background-color: rgb(255,255,255);
+}
+header{
+  margin: 0px auto 0px;
+}
+.h-nav li{
+  padding: 20px 10px;
+}
+
+.content{
+  position: relative;
+}
+.main{
+  position: absolute;
+  top:300px;
+  left:5%;
+  right: 5%;
+  width: 90%;
+  padding-top:50px!important;
+}
+.ss-headertitle{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height:400px;
+  padding-bottom:50px;
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.ss-headertitle img{
+  width: 100%;
+  height: 100%;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+
+.ss-mainblock{
+  padding: 0px 50px 50px;
+  font-size: 14px;
+}
+.ss-schoolname{
+  font-size:28px;
+  letter-spacing: 0.05em;
+  display: table;
+  margin: 0 auto;
+  color:rgb(0,35,128);
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+.ss-schoolname span{
+  font-size:14px;
+}
+.schoollabellist{
+  text-align: center;
+}
+.schoollabel{
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: rgb(255,255,255);
+  display: inline-block;
+  padding: 0px 15px;
+}
+.ss-schoollabel1 {
+  background: rgb(255,128,0);
+}
+.ss-schoollabel2 {
+  background: rgb(128,40,128);
+}
+
+.ss-mainsec{
+  padding-bottom:50px;
+}
+.ss-mainsec1{
+  padding-bottom:100px;
+}
+.ss-mainsec h2{
+  font-size: 18px;
+  border-bottom:1px solid rgba(0,35,128,0.5);
+  color: rgb(0,35,128);
+  font-weight: 600;
+  margin-bottom: 10px;
+  padding-bottom:5px;
+}
+.ss-mainsec h3{
+  font-size: 18px;
+  color: rgb(0,35,128);
+  font-weight: 600;
+  margin-bottom: 10px;
+  padding-bottom:5px;
+}
+.ss-mainsectxt{
+  padding-top:50px;
+}
+.ss-mainsec li{
+  padding:10px;
+  line-height: 25px;
+}
+
+.ss-flametitle{
+  display: inline-block;
+  vertical-align: top;
+  width: 150px;
+  height: 25px;
+  line-height: 25px;
+  border:1px solid rgba(0,35,128,0.5);
+  text-align: center;
+  color:rgb(0,35,128);
+  margin-right: 30px;
+}
+.ss-flametitle-sub{
+  color:rgb(0,35,128);
+}
+ul.ss-inline-ul{
+  display: inline-block;
+}
+ul.ss-inline-ul li{
+  padding-top:0px!important;
+  padding-left:0px!important;
+
+}
+/* テキストエリア（学科コース特記事項） */
+.ss-textarea{
+  background-color:rgb(255,254,224);
+  border: 1.5px solid #4872e7;
+  line-height: 1.5;
+  padding: 5px;
+}
+
+/* 表　*/
+/* font size */
+.fs-12 {
+  font-size: 12px;
+}
+.fs-14 {
+  font-size: 14px;
+}
+.fs-16 {
+  font-size: 16px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+
+/* margin */
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-1rem {
+  margin-top: 1rem;
+}
+.mt-2rem {
+  margin-top: 2rem;
+}
+.mt-3rem {
+  margin-top: 3rem;
+}
+.mt-4rem {
+  margin-top: 4rem;
+}
+
+.mr-1rem {
+  margin-right: 1rem;
+}
+
+/* padding */
+.pd-5 {
+  padding: 5px;
+}
+
+/* display */
+.flex {
+  display: flex;
+}
+
+/* width */
+.wd-5 {
+  width: 5%;
+}
+.wd-10 {
+  width: 10%;
+}
+.wd-20 {
+  width: 20%;
+}
+.wd-25 {
+  width: 25%;
+}
+.wd-30 {
+  width: 30%;
+}
+.wd-40 {
+  width: 40%;
+}
+.wd-50 {
+  width: 50%;
+}
+
+.title {
+  border-bottom: 1.5px solid #4872e7;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.table-des {
+  color: black;
+}
+
+table {
+  border: 1.5px solid #6986d6;
+  border-collapse: collapse;
+  width: 100%;
+  font-size:12px;
+  margin-bottom: 50px;
+}
+
+table td, th {
+  padding:10px 5px;
+  border: 1px solid #5986d6;
+  }
+
+th {
+  text-align: left;
+  background: #cbe5f3;
+}
+
+.flex .sub-table {
+  width: 50%;
+}
+
+span.ss-item{
+  background-color: rgb(0,35,128);
+  color: rgb(255,255,255);
+  padding:2px;
+}
+.ss-item-in{
+  display: inline-block;
+  background-color: rgb(0,35,128);
+  color: rgb(255,255,255);
+  padding:2px;
+  margin:5px;
+}
+/* 投稿本文table */
+.ss-table1-sp{
+  padding-bottom:50px;
+  display:none;
+}
+.fa-star{
+  padding:2px;
+  color: rgb(0,35,128);
+  font-size: 14px;
+}
+
+
+br.br-onoff{
+  display:none;
+}
+
+/* ボタン */
+.ss-backbtn{
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  margin: 0 auto;
+  text-align: center;  
+  background-color:rgb(230,230,230);
+
+}
+.ss-backbtn a{
+  display: block;
+  text-decoration: none;
+  color:#000;
+}
+
+.ss-btnlist{
+  background-color: rgba(255,255,255,0.5);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.ss-btn1,.ss-btn2,.ss-btn3{
+  display: inline-block;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.ss-btn1 a,.ss-btn2 a,.ss-btn3 a{
+  color: white;
+}
+.ss-btn1{
+  background-color: rgb(0,169,226);
+}
+.ss-btn2{
+  background-color:rgb(93,170,49);
+}
+.ss-btn3{
+  background-color: rgb(255,123,142);
+}
+.ss-btn-img{
+  display: inline-block;
+  vertical-align: top;
+  letter-spacing: 0.06em;
+}
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:750px){
+  p{
+    font-size:20px;
+  }
+  .main{
+    margin: initial;
+  }
+  .ss-schoolname{
+    margin: initial;
+  }
+  .ss-schoolname h2{
+    font-size:22px;
+  }
+  .schoollabel {
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    letter-spacing: 0.03em;
+    margin: 10px 0;
+    font-size: 22px;
+  }
+  .ss-mainblock {
+    padding: initial;
+    margin: 0 5%;
+  }
+  .ss-mainsec h2{
+    border-bottom:2px solid rgba(0,35,128,1.0);
+  }
+  br.br-onoff{
+    display: inline-block;
+  }
+  /* 投稿本文:テーブル */
+  .ss-table1{
+    display: none;
+  }
+  .ss-table1-sp{
+    display: inline;
+  }
+  .ss-backbtn{
+    width: 150px;
+  }
+  .ss-btn1,.ss-btn2,.ss-btn3{
+    font-size:13px;
+  }
+}
+
+@media screen and (max-width:690px){
+}

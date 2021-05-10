@@ -1,0 +1,433 @@
+.logo-sp {
+  display: none;
+}
+
+/* レスポンシブ対応 903px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:903px){
+
+  .m-i-title img{
+    margin-left:30px;
+  }
+  .m-i-title-h2{
+    margin-left:10px;
+  } 
+
+  .m-c-group{
+    padding-bottom:50px;
+    width: 100%;
+    height:400px;
+  }
+  .m-c-group-sp{
+    display: none;  /* レスポンシブ配置 非表示*/
+  }
+  .m-c-group-img1,.m-c-group-img2,.m-c-group-img3{
+    padding: 11px;
+    
+  }
+  .m-c-group-left{
+    width: 50%;
+    float: left;
+  }
+  .m-c-group-right{
+    width: 50%;
+    float: right;
+  }
+  .m-c-group-img1{
+    width: 90%;
+    margin:0 auto;
+  }
+  .m-c-group-img3{
+    width: 90%;
+    margin:0 auto;
+  }
+  .m-c-group-img2{
+    width: 90%;
+    margin:0 auto;
+  }
+  
+}
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:750px) {
+  .br-off{
+    display: none;
+  }
+
+  header{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(255,255,255);
+  }
+
+  header img, footer img{
+    width:100%;
+  }
+
+  .h-nav{
+    margin: 0;
+    width: 100%;
+  }
+
+  .h-nav img{
+    width:80%;
+    height:auto;
+    vertical-align: middle;
+  }
+
+  .logo-sp {
+    display: block;
+    width: 100%;
+  }
+
+  .logo-sp a:nth-of-type(1) img {
+    width: 12%;
+    padding-right: 3%;
+    border-right: 1px solid rgb(2,56,146);
+  }
+
+  .logo-sp a:nth-of-type(2) img {
+    width: 60%;
+    margin-left: 2%;
+  }
+
+  .logo-sp a:nth-of-type(3) img {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    margin-left: 4%;
+  }
+
+  .h-nav-l-big img{
+    width:100%;
+    height:auto;
+  
+  }
+  .h-nav-l-small img{
+    width:65%;
+    height:auto;
+  }
+
+  .h-nav ul{
+    width: 100%;
+    padding:10px 0px;
+    font-size:0;
+    max-width: 1020px;
+    text-align: center;
+  }
+
+  .main{
+    background-color: rgb(255,255,255);
+    max-width: 1020px;
+  }
+  .m-info{
+    padding:50px 0px;
+    margin:0px 50px 30px 50px;
+    border-bottom:  0px;
+    height: 600px;
+  }
+  .m-i-title{
+    width:initial;
+    height: initial;
+    padding-top:initial;
+    float: inherit;
+    text-align: center;
+    border-bottom:1px solid rgb(0,35,128);
+  }
+  .m-i-title img{
+    width:40px;
+    height:40px;
+    margin-left:0px;
+  }
+  .m-i-title-h2{
+    font-size: 22px;
+    margin:10px 5px;
+    text-align: center;
+    display: inline-block;
+    color:rgb(0,35,128);
+  }
+  .m-i-title-h2-2{
+    text-align: center;
+    display: inline-block;
+    padding-left: 10px;
+  }
+  .m-i-list{
+    width: initial;
+    float: none;
+    clear: both;
+  }
+  .m-i-list a{
+    text-decoration: none;
+  }
+  .m-i-list ul{
+    border-left:0px;
+  }
+  .m-i-list li{
+    display: inline;
+  }
+  
+  .m-i-list-label{
+    width: initial;
+    float: initial;
+    text-align: initial;
+    height: auto;
+    font-size: 12px;
+  }
+  .m-i-list-date{
+    display: inline-block;
+    text-align: center;
+  }
+  .news-green{
+    display: inline-block;
+    text-align: center;
+    color:rgb(86,215,86);
+    border:2px solid rgb(86,215,86);
+    border-radius: 20px;
+  }
+  .news-red{
+    display: inline-block;
+    text-align: center;
+    color:rgb(253,40,39);
+    border:2px solid rgb(253,40,39);
+    border-radius: 20px;
+  }
+  .m-i-list-sec{
+    width:100%;
+    word-wrap:break-all;
+  }
+  .m-i-list-p2{
+    font-size:16px;
+    font-weight:600;
+    color:rgb(2,128,255);
+    letter-spacing: 0.05em;
+    padding:5px 0px 10px;
+  }
+  .m-i-list-p3{
+    color:rgb(0,0,0);
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+  
+  .m-i-btn-a{
+    color:rgb(255,255,255);
+    text-decoration: none;
+  }
+  .m-i-btn{
+    clear: both;
+    margin: 0 auto;
+    background-color: rgb(2,128,255);
+    width: 320px;
+    height: 50px;
+  }
+  .m-i-btn img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 5px 10px 5px 0px;
+  }
+
+  .m-contents{
+    text-align: center;
+    height:2700px;
+    padding: 0px;
+  }
+  .m-c-title{
+    width: 85%;
+    padding-bottom:5px;
+  }
+  .m-contents img{
+    width: 100%;
+    height: auto;
+  }
+  .m-c-group-img1,.m-c-group-img2,.m-c-group-img3{
+    padding: 11px;
+    
+  }
+  .m-c-group-left, .m-c-group-right{
+    display: none;
+  }
+  .m-c-group-sp{
+    display: inline;
+  }
+  .c-group-sp{
+    margin:2%;
+  }
+  .c-group-sp-twins .left{
+    float: left;
+    width: 46%;
+  }
+  .c-group-sp-twins .right{
+    float: right;
+    width: 46%;
+  }
+
+
+  .clearfx{
+    content: "";
+    display: block;
+    clear: both;
+  }
+  .f-bottom{
+    background-color: rgb(242,242,242);
+  }
+
+}
+
+/* レスポンシブ対応 590px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:590px){
+  .m-contents{
+    height:2110px;
+  }
+
+  .m-i-btn{
+    width: 280px;
+  }
+  .m-i-btn-p{
+    vertical-align: top;
+    font-size:16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    font-weight: 600;
+  }
+  .m-info {
+    padding: 50px 0px;
+    margin: 0px 20px 30px 20px;
+    border-bottom: 0px;
+    height: 600px;
+  }
+}
+/* レスポンシブ対応 501px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:501px){
+  .hb-navbtn {
+    top: 0px!important;
+  }
+    .m-contents{
+    height:1800px;
+  }
+
+}
+/* レスポンシブ対応 415px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:415px){
+  .m-contents{
+    height:1500px;
+  }
+}
+/* レスポンシブ対応 350px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:350px){
+  .m-contents{
+    height:1260px;
+  }
+}
+
+
+
+
+
+
+/* ハンバーガーメニュー処理 */
+/* //////////////////////////////////////// */
+.hb-navbtn{
+  display: none;
+}
+.hb-titlemenu{
+  display: none;
+}
+@media screen and (min-width:750px){
+  /*ハンバーガーメニュー 画面広げたらhbのメニュー部分非表示*/
+  .hb-menu{
+      display: none;
+  }
+
+}
+/* レスポンシブ対応 750px */
+@media screen and (max-width:750px){
+.h-nav ul{
+    display: none;
+}
+.hb-titlemenu{
+  display: inline;
+}
+.hb-title-logo img{
+  width: 220px;
+}
+.hb-title-logo{
+padding-left: 30px;
+}
+.hb-logo img{
+  padding:0px 10px;
+  border-right: 1px solid rgb(2,56,146);
+}
+.h-nav {
+  position: relative;
+  margin: 10px 0;
+  z-index: 999;
+}
+
+/*【 ハンバーガーメニュー 】トグルボタンのスタイルを指定*/
+.hb-navbtn {
+    display: block;
+    -webkit-transition: .35s ease-in-out;	/*変化の速度を指定*/
+    -moz-transition: .35s ease-in-out;		/*変化の速度を指定*/
+    transition: .35s ease-in-out;			/*変化の速度を指定*/
+    z-index: 1000;
+}
+/*ハンバーガーメニュー*/
+/*ナビメニューのスタイルを指定*/
+.hb-menu{
+  position: fixed;
+  top: calc(11vw + 5.5%);
+  left: 0px;
+  width: 100%;
+  height: 400px;
+  z-index: 101;
+  background: rgba(255,255,255,1.0);
+  transform: translateY(-200%);
+  transition: all 0.3s;
+  border-top: 1px solid #DDD;
+}
+  
+.hb-menu ul{
+  width: 90%;
+  margin: 0 5%;
+  list-style: none;
+}
+
+.nav-l-top{
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(2,56,146);
+  border-bottom: 2px solid rgb(2,56,146)!important;
+  line-height: initial;
+  height: 20px!important;
+}  
+.hb-menu .hb-nav-l li{
+  height:30px;
+  text-align: left;
+  border-bottom:1px solid rgb(2,56,146);
+}
+
+.hb-menu .hb-nav-l a {
+  display: block;
+  width: calc(100% - 40px);
+  height: 100%;
+  padding: 0 20px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  font-size: 12px;
+  color: rgb(2,56,146);
+}
+
+/*トグルボタンが押されたときに付与するクラス*/
+.hb-menu.active{
+  transform: translateY(0%);
+}
+
+
+}

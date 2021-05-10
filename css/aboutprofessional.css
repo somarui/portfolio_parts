@@ -1,0 +1,96 @@
+
+/* 取得できる様々な資格 ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding:50px 5%!important;
+  box-sizing: border-box;
+}
+.ap-headertitle{
+  width: 100%;
+  height: auto;
+}
+.ap-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+.ap-maintitle{
+  padding:20px;
+  font-weight: 600;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border: 1px solid rgb(0,35,128);
+}
+.ap-maintitle h2{
+  padding-bottom:10px;
+  color: rgb(0,35,128);
+}
+.ap-maintitle ul{
+  margin: 0 auto;
+  list-style: none;
+}
+.ap-maintitle li{
+  display: inline-block;
+  margin-right: 100px;
+  line-height: 2;
+}
+.ap-maintitle a{
+  text-decoration: none;
+  color: rgb(21,128,252);
+}
+li.ap-nowpage{
+  border-bottom:1px solid #000;
+}
+
+/* section1~4 */
+.ap-mainblock1,.ap-mainblock2,.ap-mainblock3,.ap-mainblock4{
+  padding-bottom:100px;
+}
+.ap-maintitle1,.ap-maintitle2,.ap-maintitle3,.ap-maintitle4{
+  font-size: 20px;
+  padding-bottom:10px;
+  margin-bottom:30px;
+  color: rgb(0,35,128);
+  border-bottom: 1px solid rgb(0,35,128);
+  font-weight: 600;
+  line-height: 1.5;
+}
+.ap-mainsec1-p,.ap-mainsec2-p,.ap-mainsec3-p,.ap-mainsec4-p{
+  vertical-align: top;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+  padding-bottom:50px;
+}
+.ap-mainsec1,.ap-mainsec2,.ap-mainsec3,.ap-mainsec4{
+  box-sizing: border-box;
+  padding-bottom:30px;
+}
+
+.ap-mainsec1-img{
+  width: 100%;
+  text-align: center;
+  padding-bottom:50px;
+}
+.ap-mainsec1-img img{
+  width: 90%;
+  height: auto;
+}
+.ap-mainsec2-img{
+  width: 100%;
+  text-align: center;
+}
+.ap-mainsec2-img img{
+  width: 90%;
+  height: auto;
+}
+.ap-mainsec4-img{
+  width: 100%;
+  text-align: center;
+}
+.ap-mainsec4-img img{
+  width: 90%;
+  height: auto;
+}

@@ -1,0 +1,67 @@
+/* single-news.phpの記述 */
+.s-headertitle{
+  width: 100%;
+  height: auto;
+}
+.s-headertitle img{
+  width: 100%;
+  height: auto;
+}
+.m-info{
+  margin: initial!important;
+}
+.m-i-list-date{
+  text-align: center;
+  margin:initial;
+  margin-bottom:10px;
+  font-size: 12px;
+  width: 120px;
+  padding: 2px 0px;
+}
+.m-i-list-sec{
+  padding:0px 30px 30px;
+  width: initial;
+}
+.m-i-list-p2{
+  margin-bottom:30px;
+}
+.m-i-list-p3{
+  font-size: 14px;
+}
+
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:750px){
+  .news-btn{
+    color:rgb(0, 0, 0)!important;
+    background-color:rgb(230,230,230)!important;
+  }
+  .m-i-title{
+    display:block;
+  }
+  .m-info{
+    margin: initial!important;
+    height: initial;
+  }
+  .m-i-list{
+    padding:initial!important;
+  }
+  .m-i-list-sec{
+    padding:30px!important;
+  }
+  .m-i-list-p2{
+    font-size: 20px;
+    padding:10px 0px!important;
+  }
+}
+/* レスポンシブ対応 467px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:467px){
+  .m-i-list{
+    height:auto;
+  }
+  .m-i-list-sec{
+    padding:30px 15px!important;
+  }
+}

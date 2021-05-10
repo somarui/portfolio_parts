@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.66" height="19.622" viewBox="0 0 23.66 19.622">
+  <g id="グループ_64" data-name="グループ 64" transform="translate(-27.512 -178.726)">
+    <g id="グループ_62" data-name="グループ 62">
+      <path id="パス_143" data-name="パス 143" d="M42.2,182.9v-2.834a.852.852,0,0,0-.852-.852H33.9a.849.849,0,0,0-.849.848V182.9h-4.2a.853.853,0,0,0-.853.853v10.268a.848.848,0,0,0,.848.848H46.4a.848.848,0,0,0,.848-.848V183.747a.847.847,0,0,0-.847-.847Z" fill="#fff" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.975"/>
+      <g id="グループ_61" data-name="グループ 61">
+        <rect id="長方形_1589" data-name="長方形 1589" width="1.689" height="1.689" transform="translate(31.347 187.721)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1590" data-name="長方形 1590" width="1.689" height="1.689" transform="translate(34.97 187.721)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1591" data-name="長方形 1591" width="1.689" height="1.689" transform="translate(38.592 187.721)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1592" data-name="長方形 1592" width="1.689" height="1.689" transform="translate(42.214 187.721)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1593" data-name="長方形 1593" width="1.689" height="1.689" transform="translate(31.347 190.779)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1594" data-name="長方形 1594" width="1.689" height="1.689" transform="translate(34.97 190.779)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1595" data-name="長方形 1595" width="1.689" height="1.689" transform="translate(38.592 190.779)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+        <rect id="長方形_1596" data-name="長方形 1596" width="1.689" height="1.689" transform="translate(42.214 190.779)" fill="#002380" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+      </g>
+      <circle id="楕円形_1" data-name="楕円形 1" cx="2.46" cy="2.46" r="2.46" transform="translate(35.165 181.154)" fill="none" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+      <line id="線_22" data-name="線 22" y2="1.287" transform="translate(37.625 182.365)" fill="none" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+      <line id="線_23" data-name="線 23" x1="1.287" transform="translate(37.64 183.652)" fill="none" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.488"/>
+    </g>
+    <g id="グループ_63" data-name="グループ 63">
+      <circle id="楕円形_2" data-name="楕円形 2" cx="5.068" cy="5.068" r="5.068" transform="translate(37.331 194.371) rotate(-76.717)" fill="#fff" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.78"/>
+      <line id="線_24" data-name="線 24" x2="2.659" y2="2.659" transform="translate(47.341 194.517)" fill="none" stroke="#002380" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.658"/>
+    </g>
+  </g>
+</svg>

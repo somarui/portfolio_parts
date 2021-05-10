@@ -1,0 +1,158 @@
+
+/* 協会について ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding: 50px 5%!important;
+  box-sizing: border-box;
+}
+.ch-headertitle{
+  width: 100%;
+  height: auto;
+}
+.ch-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+/* メイン中身 */
+.ch-maintitle{
+  padding:20px;
+  font-weight: 600;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border: 1px solid rgb(0,35,128);
+}
+.ch-maintitle h2{
+  padding-bottom:10px;
+  color: rgb(0,35,128);
+}
+.ch-maintitle ul{
+  margin: 0 auto;
+  list-style: none;
+}
+.ch-maintitle li{
+  display: inline-block;
+  margin-right: 100px;
+  line-height: 2;
+}
+.ch-maintitle a{
+  text-decoration: none;
+  color: rgb(21,128,252);
+}
+li.ch-nowpage{
+  border-bottom:1px solid #000;
+}
+
+.ch-mainblock1,.ch-mainblock2,.ch-mainblock3,.ch-mainblock4,.ch-mainblock5,.ch-mainblock6{
+  padding-bottom:100px;
+}
+.ch-maintitle1,.ch-maintitle2,.ch-maintitle3,.ch-maintitle4,.ch-maintitle5,.ch-maintitle6{
+  font-size: 20px;
+  padding-bottom:10px;
+  margin-bottom:30px;
+  color: rgb(0,35,128);
+  border-bottom: 1px solid rgb(0,35,128);
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.ch-mainsec1-p,.ch-mainsec2-p,.ch-mainsec3-p,.ch-mainsec4-p,.ch-mainsec5-p,.ch-mainsec6-p{
+  vertical-align: top;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+}
+.ch-mainsec1,.ch-mainsec2,.ch-mainsec3,.ch-mainsec4,.ch-mainsec5,.ch-mainsec6{
+  box-sizing: border-box;
+}
+.ch-mainsec1{
+  padding-right:30px;
+}
+.ch-mainsec1-p{
+  display: inline-block;
+  width: 45%;
+}
+.ch-mainsec1-img{
+  width: 44%;
+  padding: 0px 5%;
+  display: inline-block;
+}
+.ch-mainsec1-img img{
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+.ch-mainsec2-img{
+  width: 40%;
+  display: inline-block;
+}
+.ch-mainsec2-img img{
+  width: 90%;
+  height: auto;
+  display: inline-block;
+}
+.ch-mainsec2{
+  display: inline-block;
+  width: 59%;
+  vertical-align: top;
+  padding-left:30px;
+}
+
+.ch-mainsec3-img{
+  width: 40%;
+  display: inline-block;
+}
+.ch-mainsec3-img img{
+  width: 90%;
+  height: auto;
+  display: inline-block;
+}
+.ch-mainsec3{
+  display: inline-block;
+  width: 59%;
+  vertical-align: top;
+  padding-right: 30px;
+}
+
+.ch-mainsec4{
+  padding-bottom:30px;
+}
+.ch-mainsec4-img{
+  width: 100%;
+  text-align: center;
+}
+.ch-mainsec4-img img{
+  width: 90%;
+  height: auto;
+}
+
+
+
+.ch-mainsec5-img{
+  width: 40%;
+  display: inline-block;
+}
+.ch-mainsec5-img img{
+  width: 90%;
+  height: auto;
+  display: inline-block;
+}
+.ch-mainsec5{
+  display: inline-block;
+  width: 59%;
+  vertical-align: top;
+  padding-left: 30px;
+}
+
+.ch-mainsec6{
+  padding-bottom:30px;
+}
+.ch-mainsec6-img{
+  width: 100%;
+  text-align: center;
+}
+.ch-mainsec6-img img{
+  width: 90%;
+  height: auto;
+}

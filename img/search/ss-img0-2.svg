@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="319.288" height="75" viewBox="0 0 319.288 75">
+  <g id="グループ_2784" data-name="グループ 2784" transform="translate(-14.721 -66.091)">
+    <g id="グループ_355" data-name="グループ 355" transform="translate(14.721 66.091)">
+      <rect id="長方形_251" data-name="長方形 251" width="319.288" height="75" transform="translate(0)" fill="#002380"/>
+    </g>
+    <g id="グループ_488" data-name="グループ 488" transform="translate(26.274 82.557)">
+      <g id="グループ_483" data-name="グループ 483" transform="translate(36.586 4)">
+        <text id="福岡の専門学校を探してみよう_" data-name="福岡の専門学校を探してみよう！" transform="translate(-2 12)" fill="#fff" font-size="16" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.1em"><tspan x="0" y="0">福岡の専門学校を探してみよう！</tspan></text>
+        <text id="Search_for_a_school" data-name="Search for a school" transform="translate(61.988 34.619)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.15em"><tspan x="0" y="0">Search for a school</tspan></text>
+      </g>
+      <g id="グループ_487" data-name="グループ 487" transform="translate(0 8.164)">
+        <g id="グループ_485" data-name="グループ 485">
+          <path id="パス_538" data-name="パス 538" d="M199.712,175.722v-3.136a.943.943,0,0,0-.942-.942h-8.232a.939.939,0,0,0-.939.939v3.14H184.95a.943.943,0,0,0-.943.943v11.36a.939.939,0,0,0,.938.939h19.42a.939.939,0,0,0,.939-.939V176.659a.937.937,0,0,0-.937-.937Z" transform="translate(-184.007 -171.644)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+          <g id="グループ_484" data-name="グループ 484" transform="translate(3.703 9.412)">
+            <rect id="長方形_326" data-name="長方形 326" width="1.868" height="1.868" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_327" data-name="長方形 327" width="1.868" height="1.868" transform="translate(4.007)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_328" data-name="長方形 328" width="1.868" height="1.868" transform="translate(8.015)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_329" data-name="長方形 329" width="1.868" height="1.868" transform="translate(12.022)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_330" data-name="長方形 330" width="1.868" height="1.868" transform="translate(0 3.383)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_331" data-name="長方形 331" width="1.868" height="1.868" transform="translate(4.007 3.383)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_332" data-name="長方形 332" width="1.868" height="1.868" transform="translate(8.015 3.383)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+            <rect id="長方形_333" data-name="長方形 333" width="1.868" height="1.868" transform="translate(12.022 3.383)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="0.5"/>
+          </g>
+          <circle id="楕円形_47" data-name="楕円形 47" cx="2.722" cy="2.722" r="2.722" transform="translate(7.927 2.147)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="線_176" data-name="線 176" y2="1.424" transform="translate(10.649 3.487)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="線_177" data-name="線 177" x1="1.424" transform="translate(10.665 4.91)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <g id="グループ_486" data-name="グループ 486" transform="translate(7.932 8.151)">
+          <line id="線_178" data-name="線 178" x2="3.827" y2="3.827" transform="translate(12.581 12.581)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+          <circle id="楕円形_48" data-name="楕円形 48" cx="6.563" cy="6.563" r="6.563" transform="translate(0 12.775) rotate(-76.717)" fill="#002380" stroke="#fff" stroke-miterlimit="10" stroke-width="1.25"/>
+        </g>
+      </g>
+      <line id="線_179" data-name="線 179" x2="263.879" transform="translate(33.347 23.109)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="0.75"/>
+    </g>
+  </g>
+</svg>

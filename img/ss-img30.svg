@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.363" height="70.363" viewBox="0 0 70.363 70.363">
+  <g id="グループ_497" data-name="グループ 497" transform="translate(-726.621 -1237.756)">
+    <rect id="長方形_344" data-name="長方形 344" width="70.363" height="70.363" transform="translate(726.621 1237.755)" fill="#00a9e2"/>
+    <g id="グループ_496" data-name="グループ 496">
+      <path id="パス_543" data-name="パス 543" d="M785.922,1281.891l-24.332,2.227-23.907-2.226a.693.693,0,0,1-.642-.691v-29.5a1.694,1.694,0,0,1,1.818-1.689l22.731,1.673,23.158-1.676a1.694,1.694,0,0,1,1.816,1.69v29.5A.692.692,0,0,1,785.922,1281.891Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.005"/>
+      <path id="パス_544" data-name="パス 544" d="M781.959,1281.167l-20.156,2.8-20.157-2.8v-32.443a1.386,1.386,0,0,1,1.589-1.372l18.568,2.735,18.568-2.735a1.385,1.385,0,0,1,1.588,1.372Z" fill="#00aae1" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.005"/>
+      <line id="線_182" data-name="線 182" y2="32.96" transform="translate(762.054 1250.69)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.005"/>
+      <line id="線_183" data-name="線 183" x2="8.409" y2="1.168" transform="translate(747.334 1255.69)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.005"/>
+      <line id="線_184" data-name="線 184" x2="8.409" y2="1.168" transform="translate(747.334 1263.773)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.005"/>
+      <line id="線_185" data-name="線 185" x2="8.409" y2="1.168" transform="translate(747.334 1271.974)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.005"/>
+    </g>
+    <text id="電子パンフレット" transform="translate(761.869 1301.448)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="-0.1em"><tspan x="-33.076" y="0">電子パンフレット</tspan></text>
+  </g>
+</svg>

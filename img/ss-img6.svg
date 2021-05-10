@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87.91" height="87.91" viewBox="0 0 87.91 87.91">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_1879" data-name="長方形 1879" width="49.837" height="40.649" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_2670" data-name="グループ 2670" transform="translate(-504.805 -337.002)">
+    <rect id="長方形_1667" data-name="長方形 1667" width="87.911" height="87.911" transform="translate(504.805 337.002)" fill="#a8806d"/>
+    <text id="建築_土木_" data-name="建築・土木・" transform="translate(522.549 403.426)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.027em">建</tspan><tspan y="0">築・</tspan><tspan y="0" letter-spacing="0.007em">土</tspan><tspan y="0">木・</tspan></text>
+    <text id="インテリア" transform="translate(527.496 415.686)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="-0.066em">イ</tspan><tspan y="0" letter-spacing="-0.04em">ン</tspan><tspan y="0" letter-spacing="-0.098em">テ</tspan><tspan y="0" letter-spacing="-0.1em">リ</tspan><tspan y="0">ア</tspan></text>
+    <g id="グループ_2669" data-name="グループ 2669" transform="translate(523.186 348.088)">
+      <g id="グループ_2667" data-name="グループ 2667" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="パス_4513" data-name="パス 4513" d="M49.629,20.265,41.93,13.7V0H34.171V7.091L26.618.654a2.534,2.534,0,0,0-3.4,0L.207,20.265a.627.627,0,0,0,.421,1.092H7.887V39.331a1.318,1.318,0,0,0,1.319,1.318h9.9v-10.6H30.73v10.6h9.9a1.318,1.318,0,0,0,1.318-1.318V21.357h7.259a.627.627,0,0,0,.42-1.092" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

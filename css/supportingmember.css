@@ -1,0 +1,93 @@
+/* 協会について ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding-top:50px!important;
+}
+.sm-headertitle{
+  width: 100%;
+  height: auto;
+}
+.sm-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+
+.sm-mainblock{
+  padding: 50px 100px;
+}
+.sm-titletxt{
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  line-height: 1.5;
+  padding-bottom: 30px;
+}
+/* ごあいさつ| img:写真 h2:タイトル p:挨拶文 */
+.sm-mainsec{
+  display: inline-block;
+  padding-bottom:50px;
+}
+.sm-mainsec h2{
+  border-bottom:1px solid rgba(0,35,128,0.35);
+  color: rgb(0,35,128);
+  font-weight: 600;
+  margin-bottom: 10px;
+  padding-bottom:5px;
+}
+.sm-mainsec a {
+  text-decoration: none;
+  color: rgb(0,35,128);
+}
+.sm-mainsec p{
+  padding-left:20px;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  width: 70%;
+  vertical-align: top;
+}
+.sm-mainsec-logo{
+  width: 150px;
+  height: auto;
+  display: inline-block;
+}
+.sm-mainsec-logo img{
+  width: 100%;
+  height: auto;
+}
+
+
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:750px){
+
+  .sm-mainblock {
+    padding: initial;
+    margin: 0 5%;
+  }
+  .sm-mainsec h2{
+    border-bottom:2px solid rgba(0,35,128,1.0);
+  }
+  .sm-mainsec-h2only h2{
+    border-bottom:none!important; 
+  }
+  
+  .sm-mainsec-logo{
+    display: block;
+    margin:0 auto;
+  }
+
+  .sm-mainsec p{
+    width: initial;
+  }
+  
+}
+@media screen and (max-width:690px){
+
+
+
+}

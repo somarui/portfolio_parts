@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="319.288" height="79.897" viewBox="0 0 319.288 79.897">
+  <g id="グループ_2785" data-name="グループ 2785" transform="translate(-14.721 -66.009)">
+    <g id="グループ_355" data-name="グループ 355" transform="translate(14.721 66.009)">
+      <rect id="長方形_251" data-name="長方形 251" width="319.288" height="79.897" transform="translate(0)" fill="#002380"/>
+    </g>
+    <g id="グループ_2564" data-name="グループ 2564" transform="translate(10 12)">
+      <text id="学校資料一括請求" transform="translate(182.119 89.208)" fill="#fff" font-size="16" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.15em"><tspan x="-72.4" y="0">学校資料一括請求</tspan></text>
+      <text id="Request" transform="translate(181.746 110.002)" fill="#fff" font-size="12" font-family="Helvetica" letter-spacing="0.15em"><tspan x="-27.748" y="0">Request</tspan></text>
+      <line id="線_328" data-name="線 328" x2="144" transform="translate(110.5 95.713)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="0.756"/>
+      <g id="グループ_2184" data-name="グループ 2184" transform="translate(74.707 83.168)">
+        <path id="パス_2827" data-name="パス 2827" d="M475.332,62.851V44.514a1.861,1.861,0,0,1,1.856-1.856h16.5a1.861,1.861,0,0,1,1.856,1.856v16.5a1.861,1.861,0,0,1-1.856,1.856H475.332" transform="translate(-471.767 -42.658)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="パス_2828" data-name="パス 2828" d="M468.9,69.207h-1.665v5.717c0,1.543,1.524,2.805,3.439,2.805" transform="translate(-467.236 -57.516)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <rect id="長方形_1423" data-name="長方形 1423" width="12" height="4.489" rx="0.939" transform="translate(7.8 3.884)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="線_873" data-name="線 873" x2="12.01" transform="translate(7.8 11.836)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="線_874" data-name="線 874" x2="12.01" transform="translate(7.8 15.299)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

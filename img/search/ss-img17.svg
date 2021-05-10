@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.911" height="87.911" viewBox="0 0 87.911 87.911">
+  <g id="グループ_2612" data-name="グループ 2612" transform="translate(-608.707 -544.807)">
+    <rect id="長方形_1641" data-name="長方形 1641" width="87.911" height="87.911" transform="translate(608.707 544.807)" fill="#4191ff"/>
+    <text id="医療_看護_" data-name="医療・看護・" transform="translate(626.613 611.23)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.005em">医</tspan><tspan y="0">療・</tspan><tspan y="0" letter-spacing="-0.007em">看</tspan><tspan y="0">護・</tspan></text>
+    <text id="歯科_リハビリ" data-name="歯科・リハビリ" transform="translate(621.965 623.49)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.012em">歯</tspan><tspan y="0">科・</tspan><tspan y="0" letter-spacing="-0.123em">リ</tspan><tspan y="0" letter-spacing="-0.058em">ハ</tspan><tspan y="0" letter-spacing="-0.055em">ビ</tspan><tspan y="0">リ</tspan></text>
+    <path id="パス_4469" data-name="パス 4469" d="M377.531,227.084h-9.369v-5.947a3.239,3.239,0,0,0-3.236-3.236H346.391a3.23,3.23,0,0,0-3.227,3.227v5.956H333.81a3.241,3.241,0,0,0-3.238,3.238V255.9a3.23,3.23,0,0,0,3.226,3.227h43.729a3.231,3.231,0,0,0,3.227-3.227v-25.6a3.226,3.226,0,0,0-3.223-3.222m1,28.817a1,1,0,0,1-1,1H333.8a1,1,0,0,1-1-1V230.322a1.014,1.014,0,0,1,1.012-1.011h10.467a1.113,1.113,0,0,0,1.113-1.114v-7.069a1,1,0,0,1,1-1h18.535a1.011,1.011,0,0,1,1.009,1.009v7.06a1.113,1.113,0,0,0,1.113,1.114h10.483a1,1,0,0,1,1,.995Z" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4470" data-name="パス 4470" d="M360.634,231v-2.817h-3.563V224.62h-2.817v3.563H350.69V231h3.564v3.563h2.817V231Z" transform="translate(297 337.002)" fill="#fff"/>
+    <rect id="長方形_1643" data-name="長方形 1643" width="4.207" height="4.207" transform="translate(637.023 577.209)" fill="#fff"/>
+    <rect id="長方形_1644" data-name="長方形 1644" width="4.207" height="4.207" transform="translate(646.047 577.209)" fill="#fff"/>
+    <rect id="長方形_1645" data-name="長方形 1645" width="4.207" height="4.207" transform="translate(655.07 577.209)" fill="#fff"/>
+    <rect id="長方形_1646" data-name="長方形 1646" width="4.207" height="4.207" transform="translate(664.096 577.209)" fill="#fff"/>
+    <rect id="長方形_1647" data-name="長方形 1647" width="4.207" height="4.207" transform="translate(637.023 584.826)" fill="#fff"/>
+    <rect id="長方形_1648" data-name="長方形 1648" width="4.207" height="4.207" transform="translate(646.047 584.826)" fill="#fff"/>
+    <rect id="長方形_1649" data-name="長方形 1649" width="4.207" height="4.207" transform="translate(655.07 584.826)" fill="#fff"/>
+    <rect id="長方形_1650" data-name="長方形 1650" width="4.207" height="4.207" transform="translate(664.096 584.826)" fill="#fff"/>
+  </g>
+</svg>

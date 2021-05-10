@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.363" height="70.363" viewBox="0 0 70.363 70.363">
+  <g id="グループ_492" data-name="グループ 492" transform="translate(-648.262 -1237.488)">
+    <rect id="長方形_334" data-name="長方形 334" width="70.363" height="70.363" transform="translate(648.262 1237.489)" fill="#ff6419"/>
+    <g id="グループ_490" data-name="グループ 490">
+      <path id="パス_539" data-name="パス 539" d="M695.144,1254.89v-7.256a2.182,2.182,0,0,0-2.181-2.181H673.916a2.173,2.173,0,0,0-2.173,2.173v7.264H660.988a2.183,2.183,0,0,0-2.184,2.183v26.285a2.172,2.172,0,0,0,2.172,2.172h44.935a2.172,2.172,0,0,0,2.172-2.172v-26.3a2.168,2.168,0,0,0-2.168-2.167Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2.153"/>
+      <g id="グループ_489" data-name="グループ 489">
+        <rect id="長方形_335" data-name="長方形 335" width="4.323" height="4.323" transform="translate(667.373 1267.231)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_336" data-name="長方形 336" width="4.323" height="4.323" transform="translate(676.646 1267.231)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_337" data-name="長方形 337" width="4.323" height="4.323" transform="translate(685.919 1267.231)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_338" data-name="長方形 338" width="4.323" height="4.323" transform="translate(695.191 1267.231)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_339" data-name="長方形 339" width="4.323" height="4.323" transform="translate(667.373 1275.059)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_340" data-name="長方形 340" width="4.323" height="4.323" transform="translate(676.646 1275.059)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_341" data-name="長方形 341" width="4.323" height="4.323" transform="translate(685.919 1275.059)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+        <rect id="長方形_342" data-name="長方形 342" width="4.323" height="4.323" transform="translate(695.191 1275.059)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+      </g>
+      <circle id="楕円形_49" data-name="楕円形 49" cx="6.298" cy="6.298" r="6.298" transform="translate(677.146 1250.421)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.663"/>
+      <line id="線_180" data-name="線 180" y2="3.294" transform="translate(683.444 1253.521)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.663"/>
+      <line id="線_181" data-name="線 181" x1="3.294" transform="translate(683.482 1256.815)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.663"/>
+    </g>
+    <g id="グループ_491" data-name="グループ 491">
+      <text id="学校情報" transform="translate(683.444 1301.448)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.05em"><tspan x="-18.804" y="0">学校情報</tspan></text>
+    </g>
+  </g>
+</svg>

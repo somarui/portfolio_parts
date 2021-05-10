@@ -1,0 +1,67 @@
+/* 県知事ごあいさつ ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding-top:50px!important;
+  padding-bottom: 50px;
+}
+.dl-headertitle{
+  width: 100%;
+  height: auto;
+}
+.dl-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+.dl-mainblock{
+  width: 90%;
+  margin: 0px 5%;
+}
+.dl-maintitle{
+  color: rgb(2,128,255);
+  font-size: 18px;
+  margin-bottom:20px;
+}
+li.bd-top{
+  border-top:1px solid rgb(172,218,255);
+}
+.dl-mainblock li{
+  border-bottom:1px solid rgb(172,218,255);
+  width: 100%;
+}
+.dl-mainblock li p{
+  display: inline-block;
+  margin: 5px 0px;
+  padding: 10px;
+  border-left:1px solid rgb(2,128,255);
+}
+.dl-mainblock li a{
+  float: right;
+  text-decoration: none;
+  color:rgb(255, 255, 255);
+  background-color: rgb(2,128,255);
+  padding:10px;
+  margin: 5px;
+  font-size: 14px;
+}
+
+/* ボタン */
+
+.top-btn{
+  text-align: center;
+  margin: 50px auto;
+  width: 250px;
+  height: 50px;
+  font-size:20px;
+  line-height: 50px;
+  background-color: rgb(230,230,230);
+}
+.top-btn a{
+  text-decoration: none;
+}
+.top-btn p{
+  letter-spacing: 0.06em;
+  color:rgb(0, 0, 0);
+}

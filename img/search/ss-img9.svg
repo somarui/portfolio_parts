@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.911" height="87.911" viewBox="0 0 87.911 87.911">
+  <g id="グループ_2605" data-name="グループ 2605" transform="translate(-297 -440.904)">
+    <rect id="長方形_1627" data-name="長方形 1627" width="87.911" height="87.911" transform="translate(297 440.904)" fill="#7873b4"/>
+    <text id="福祉_保育_" data-name="福祉・保育・" transform="translate(314.914 507.328)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.011em">福</tspan><tspan y="0">祉・</tspan><tspan y="0" letter-spacing="-0.014em">保</tspan><tspan y="0">育・</tspan></text>
+    <text id="教育" transform="translate(331.832 519.588)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.013em">教</tspan><tspan y="0">育</tspan></text>
+    <path id="パス_4452" data-name="パス 4452" d="M27.89,121.8a3.867,3.867,0,1,0-3.867-3.867A3.866,3.866,0,0,0,27.89,121.8" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4453" data-name="パス 4453" d="M26.654,131.171v-6.18h2.221v6.18l-1.181,1.391Zm14.37,2.408a1.865,1.865,0,0,0-.02-.231l5.771-4.187a.815.815,0,1,0-.955-1.32l-5.786,4.2a1.639,1.639,0,0,0-.7-.16H36.183l-.764-4.343c-.418-2.188-1.3-3.908-3.171-3.908H24.307a4.345,4.345,0,0,0-3.915,3.908v13a1.7,1.7,0,0,0,1.694,1.693h1.187l.646,11.085a1.8,1.8,0,0,0,1.806,1.8h3.609a1.8,1.8,0,0,0,1.8-1.8l.846-21.954h.048l.483,2.146a2.1,2.1,0,0,0,2.071,1.768h4.749a1.7,1.7,0,0,0,1.69-1.7" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4454" data-name="パス 4454" d="M37.911,115.4V129.52h2.224v-11.9H65.3v21.224H40.135v-2.677H37.911v4.9H67.519V115.4Z" transform="translate(297 337.002)" fill="#fff"/>
+  </g>
+</svg>

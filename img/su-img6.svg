@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.954" height="62.954" viewBox="0 0 62.954 62.954">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_1780" data-name="長方形 1780" width="62.954" height="62.954" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_2565" data-name="グループ 2565" transform="translate(0 0)">
+    <g id="グループ_2564" data-name="グループ 2564" transform="translate(0 0)">
+      <g id="グループ_2563" data-name="グループ 2563" clip-path="url(#clip-path)">
+        <path id="パス_4495" data-name="パス 4495" d="M0,62.954H0V0H62.954A62.954,62.954,0,0,1,0,62.954" transform="translate(0 0)" fill="#122b88"/>
+        <text id="_" data-name="４" transform="translate(15.208 37.723)" fill="#fff" font-size="33" font-family="HeiseiKakuGoStd-W7, Heisei Kaku Gothic Std"><tspan x="0" y="0">４</tspan></text>
+      </g>
+    </g>
+    <text id="POINT" transform="translate(13.596 11.875) rotate(90)" fill="#fff" font-size="8" font-family="Helvetica"><tspan x="0" y="0" letter-spacing="0.047em">P</tspan><tspan y="0" letter-spacing="0.046em">O</tspan><tspan y="0" letter-spacing="0.04em">I</tspan><tspan y="0" letter-spacing="0.043em">N</tspan><tspan y="0">T</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="120" viewBox="0 0 90 120">
+  <g id="グループ_2693" data-name="グループ 2693" transform="translate(20255 21124)">
+    <rect id="長方形_1883" data-name="長方形 1883" width="90" height="120" transform="translate(-20255 -21124)" fill="none"/>
+    <g id="グループ_2676" data-name="グループ 2676" transform="translate(-20704 -21144)">
+      <text id="学校資料_一括請求" data-name="学校資料
+一括請求" transform="translate(494.236 109.727)" font-size="11.724" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="-23.448" y="0">学校資料</tspan><tspan y="0" font-family="Helvetica"></tspan><tspan x="-23.448" y="16.52">一括請求</tspan></text>
+      <g id="グループ_2028" data-name="グループ 2028">
+        <path id="パス_2827" data-name="パス 2827" d="M475.332,88.515V46.872a4.227,4.227,0,0,1,4.215-4.214h37.474a4.227,4.227,0,0,1,4.215,4.214V84.347a4.227,4.227,0,0,1-4.215,4.214H475.332" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        <path id="パス_2828" data-name="パス 2828" d="M471.018,69.207h-3.782V82.19c0,3.5,3.461,6.371,7.809,6.371" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        <rect id="長方形_1423" data-name="長方形 1423" width="27.252" height="10.194" rx="0.939" transform="translate(484.95 51.478)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        <line id="線_873" data-name="線 873" x2="27.273" transform="translate(484.95 69.537)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        <line id="線_874" data-name="線 874" x2="27.273" transform="translate(484.95 77.402)" fill="none" stroke="#ec007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+      </g>
+    </g>
+  </g>
+</svg>

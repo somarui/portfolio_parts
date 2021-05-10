@@ -1,0 +1,61 @@
+
+.con-title{
+  width: 300px;
+  margin: 0 auto;
+}
+.con-title img{
+  width: 100%;
+}
+.otoiawase{
+  width: 90%;
+  margin:0 auto;
+}
+
+
+.wpcf7-form table {
+  width: 100%;
+  margin-top: 20px;
+  border-top: 2px solid rgb(2,128,255);
+}
+.wpcf7-form table th {
+  width: 260px;
+  background-color: rgb(182,220,255);
+  border-bottom: 1px dotted #ccc;
+  padding: 20px;
+  font-size: 16px;
+  font-size: 1rem;
+}
+.wpcf7-form table td {
+  border-bottom: 1px dotted #ccc;
+  padding: 20px;
+}
+
+/* 確認ボタン */
+.kakunin {
+  width: 400px;
+  display: inline-block;
+  background: #fff;
+  border: 2px solid rgb(2,128,255);
+  margin: 10px auto;
+  padding: 20px 0;
+  color: rgb(2,128,255);
+  font-size: 18px;
+  font-size: 1.125rem;
+  font-weight: bold;
+
+}
+.wpcf7-form table tr th span {
+    background:rgb(255,255,255);
+    color:rgb(254,1,2);
+    border-radius: 45%;
+    padding: 5px 15px;
+    float: right;
+    font-weight: bold;
+    border:2px solid rgb(254,1,2);
+    font-size: 12px;
+    font-size: 0.75rem;
+}
+.btn_kakunin {
+  width: 100%;
+  text-align: center;
+}

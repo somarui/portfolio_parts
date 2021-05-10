@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.911" height="87.911" viewBox="0 0 87.911 87.911">
+  <g id="グループ_2600" data-name="グループ 2600" transform="translate(-400.902 -337.002)">
+    <rect id="長方形_1623" data-name="長方形 1623" width="87.911" height="87.911" transform="translate(400.902 337.002)" fill="#ffc30f"/>
+    <text id="自動車_機械_" data-name="自動車・機械・" transform="translate(414.297 403.426)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="-0.017em">自</tspan><tspan y="0">動車・</tspan><tspan y="0" letter-spacing="0.011em">機</tspan><tspan y="0">械・</tspan></text>
+    <text id="電気" transform="translate(435.746 415.686)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0" letter-spacing="0.009em">電</tspan><tspan y="0">気</tspan></text>
+    <path id="パス_4446" data-name="パス 4446" d="M159.682,19.8h.411l5.721,5.125v2.32h-6.132Zm-24.3,7.42,9.45-7.42h11.342v7.445H144.423Zm43.128.025h-4.53l-12.55-11.236H143.617l-14.3,11.236-11.786,2.3a2.876,2.876,0,0,0-2.517,2.857v8.854H122.9a8.1,8.1,0,0,1,16.2,0h19.709a8.1,8.1,0,0,1,16.2,0h5.692V29.433a2.191,2.191,0,0,0-2.19-2.19" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4447" data-name="パス 4447" d="M166.909,36.659a4.6,4.6,0,1,0,4.6,4.6,4.6,4.6,0,0,0-4.6-4.6" transform="translate(297 337.002)" fill="#fff"/>
+    <path id="パス_4448" data-name="パス 4448" d="M131,36.659a4.6,4.6,0,1,0,4.6,4.6,4.6,4.6,0,0,0-4.6-4.6" transform="translate(297 337.002)" fill="#fff"/>
+  </g>
+</svg>

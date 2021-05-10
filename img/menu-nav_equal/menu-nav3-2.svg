@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="120" viewBox="0 0 90 120">
+  <g id="グループ_2698" data-name="グループ 2698" transform="translate(20525 21316)">
+    <g id="長方形_1888" data-name="長方形 1888" transform="translate(-20525 -21316)" fill="#ec147f" stroke="#ec147f" stroke-width="3">
+      <rect width="90" height="120" stroke="none"/>
+      <rect x="1.5" y="1.5" width="87" height="117" fill="none"/>
+    </g>
+    <g id="グループ_2682" data-name="グループ 2682" transform="translate(-20784 -21336)">
+      <text id="電子パンフレット_ライブラリー" data-name="電子パンフレット
+ライブラリー" transform="translate(303.831 109.727)" fill="#fff" font-size="11.724" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="-0.145em"><tspan x="-40.097" y="0">電子パンフレット</tspan><tspan y="0" font-family="Helvetica"></tspan><tspan x="-30.922" y="16.52">ライブラリー</tspan></text>
+      <g id="グループ_2026" data-name="グループ 2026">
+        <path id="パス_2825" data-name="パス 2825" d="M332.219,86.194,301.563,89l-30.121-2.805a.872.872,0,0,1-.808-.87V48.156a2.134,2.134,0,0,1,2.29-2.129l28.639,2.108,29.177-2.111a2.135,2.135,0,0,1,2.289,2.129V85.324A.872.872,0,0,1,332.219,86.194Z" fill="#ec147f" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.268"/>
+        <path id="パス_2826" data-name="パス 2826" d="M327.227,85.282l-25.4,3.531-25.4-3.531V44.4a1.747,1.747,0,0,1,2-1.728l23.394,3.446,23.394-3.446a1.747,1.747,0,0,1,2,1.728Z" fill="#ec147f" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.268"/>
+        <line id="線_872" data-name="線 872" y2="41.527" transform="translate(302.148 46.883)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.268"/>
+      </g>
+    </g>
+  </g>
+</svg>

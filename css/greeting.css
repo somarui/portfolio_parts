@@ -1,0 +1,133 @@
+/* 県知事ごあいさつ ページ */
+/* //////////////////////////////////////// */
+.main{
+  padding-top:50px!important;
+  padding-bottom: 50px;
+}
+.gr-headertitle{
+  width: 100%;
+  height: auto;
+}
+.gr-headertitle img{
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+/* メイン中身 */
+.gr-maintitle {
+  width: 100px;
+  height: 100px;
+  border: 1px solid rgba(0,35,128);
+  color: rgb(0,35,128);
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 30px;
+  padding: 15px;
+}
+.gr-maintitle p {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* ごあいさつ| img:写真 h2:タイトル p:挨拶文 */
+.gr-mainsec{
+  display: inline-block;
+  padding: 15px 30px;
+  width: 75%;
+}
+.gr-mainsec h2{
+  border-bottom:1px solid rgba(0,35,128);
+  color: rgb(0,35,128);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.gr-mainsec p{
+  font-size: 14px;
+  line-height: 1.5;
+}
+.gr-mainsec1 span {
+  font-size: 14px;
+}
+.gr-mainsec1img{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.gr-mainsec1img img{
+  width: 100%;
+  padding-bottom:20px;
+}
+.gr-mainsec1 p{
+  display: inline-block;
+  width: 60%;
+  padding-left:20px;
+  vertical-align: top;
+  line-height: 1.6;
+  letter-spacing: 0.05em;
+}
+.gr-mainblock1{
+  padding-bottom:30px;
+}
+h2{
+  padding: 5px 0px;
+}
+
+.m-i-btn{
+  width: 250px;
+  background-color: rgb(230,230,230);
+}
+.m-i-btn-p{
+  color: rgb(0,0,0);
+}
+.br-onoff{
+  display: none;
+}
+
+
+/* レスポンシブ対応 750px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:1010px){
+  /* メイン中身 */
+  .gr-maintitle {
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgba(0,35,128);
+    color: rgb(0,35,128);
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    padding: 15px;
+  }
+  .gr-maintitle p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .br-onoff{
+    display: inline;
+  }
+  .gr-mainsec{
+    margin: 5%;
+    padding:initial;
+  }
+  .gr-mainsec p{
+    width: 100%;
+  }
+  .gr-mainsec1 p{
+    padding-left:initial;
+
+  }
+
+  .gr-mainsec1img{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+}
+/* レスポンシブ対応 590px */
+/* //////////////////////////////////////// */
+@media screen and (max-width:590px){
+
+}

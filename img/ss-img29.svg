@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.363" height="70.363" viewBox="0 0 70.363 70.363">
+  <g id="グループ_495" data-name="グループ 495" transform="translate(-804.98 -1237.756)">
+    <rect id="長方形_343" data-name="長方形 343" width="70.363" height="70.363" transform="translate(804.98 1237.755)" fill="#5caa31"/>
+    <g id="グループ_2180" data-name="グループ 2180" transform="translate(441 1208.832)">
+      <g id="グループ_2037" data-name="グループ 2037" transform="translate(382.15 41.114)">
+        <line id="線_880" data-name="線 880" y2="36.092" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25"/>
+        <g id="グループ_2036" data-name="グループ 2036" transform="translate(3.864 1.669)">
+          <path id="パス_2836" data-name="パス 2836" d="M422.056,44.787l-8.3,13.183,8.3,13.183h-31.14a2.906,2.906,0,0,1-2.905-2.905V47.692a2.905,2.905,0,0,1,2.905-2.9Z" transform="translate(-388.01 -44.787)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25"/>
+        </g>
+      </g>
+      <circle id="楕円形_193" data-name="楕円形 193" cx="2.504" cy="2.504" r="2.504" transform="translate(379.647 36.392)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25"/>
+    </g>
+    <g id="グループ_494" data-name="グループ 494">
+      <text id="イベント情報" transform="translate(839.936 1301.448)" fill="#fff" font-size="9.062" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.05em"><tspan x="-27.911" y="0">イベント情報</tspan></text>
+    </g>
+  </g>
+</svg>

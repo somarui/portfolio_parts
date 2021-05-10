@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="852.889" height="104.355" viewBox="0 0 852.889 104.355">
+  <g id="グループ_2603" data-name="グループ 2603" transform="translate(-86.355 -139.518)">
+    <rect id="長方形_503" data-name="長方形 503" width="852.889" height="104.355" transform="translate(86.355 139.518)" fill="#002380"/>
+    <g id="グループ_705" data-name="グループ 705" transform="translate(1 -8.5)">
+      <text id="専門学校_イベント情報" data-name="専門学校×イベント情報" transform="translate(551.512 198.801)" fill="#fff" font-size="34.649" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.15em"><tspan x="-204.411" y="0">専門学校</tspan><tspan y="0" font-size="31.983" font-family="Helvetica">×</tspan><tspan y="0">イベント情報</tspan></text>
+      <text id="School_events" data-name="School events" transform="translate(552.672 233.45)" fill="#fff" font-size="19.19" font-family="Helvetica" letter-spacing="0.15em"><tspan x="-77.544" y="0">School events</tspan></text>
+      <line id="線_253" data-name="線 253" x2="425.513" transform="translate(341.354 210.324)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="0.756"/>
+    </g>
+    <g id="グループ_2180" data-name="グループ 2180" transform="translate(-121 124)">
+      <g id="グループ_2037" data-name="グループ 2037" transform="translate(383.488 43.637)">
+        <line id="線_880" data-name="線 880" y2="55.377" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        <g id="グループ_2036" data-name="グループ 2036" transform="translate(5.928 2.561)">
+          <path id="パス_2836" data-name="パス 2836" d="M440.247,44.787,427.508,65.015l12.739,20.228H392.468a4.458,4.458,0,0,1-4.458-4.458V49.243a4.457,4.457,0,0,1,4.458-4.456Z" transform="translate(-388.01 -44.787)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+        </g>
+      </g>
+      <circle id="楕円形_193" data-name="楕円形 193" cx="3.841" cy="3.841" r="3.841" transform="translate(379.647 36.392)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835"/>
+    </g>
+  </g>
+</svg>

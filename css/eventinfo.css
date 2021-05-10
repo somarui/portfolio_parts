@@ -1,0 +1,181 @@
+/* header eventinfoページの処理 */
+.h-img5{
+  display: none !important;
+}
+.h-img5-sp{
+  display: inline-block !important;
+}
+.h-onoff5{
+  background-color: rgb(235,0,127) !important;
+}
+/*----*/
+
+.e-m-img{
+  width:100%;
+}
+.e-m-img img{
+  width: 100%;
+}
+.e-m-eventlist{
+  width: 80%;
+  margin:0 auto;
+}
+.e-m-searchform{
+  padding-top:15px;
+  width: 100%;
+  display: inline-block;
+}
+.e-m-eventnew{
+  width:100%;
+  margin-top:10px;
+  padding-bottom:50px;
+  border:1px solid rgba(200,200,200,1.0);
+}
+.searchtitle,.e-m-eventlist form{
+  display: inline-block;
+  text-align: center;
+}
+.searchtitle{
+  font-size:14px;
+  font-weight: 600;
+  color:rgb(0,35,128);
+  padding: 15px 0px 0px 10px;
+}
+.searchtitle-sp{
+  display: none;
+}
+.formnewinfo{
+  float: right;
+}
+
+.btn {
+  display       : inline-block;
+  text-align    : center;      /* 文字位置   */
+  cursor        : pointer;     /* カーソル   */
+  padding       : 7px;   /* 余白       */
+  background    : rgb(2,128,255);     /* 背景色     */
+  transition    : .3s;         /* なめらか変化 */
+  border        : 1px solid rgb(2,128,255);    /* 枠の指定 */
+  vertical-align: middle; /*画像のずれ直し*/
+  width: 14px;
+  height: 14px;
+}
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+input.searchtext{
+  width: 350px;
+  height: 30px;
+  box-sizing: border-box;
+  padding       : 5px;   /* 余白       */
+  border: 1px solid rgb(2,128,255);    /* 枠の指定 */
+}
+input.categorytext{
+  width: 150px;
+  height: 30px;
+  box-sizing: border-box;
+  margin:0px 0px 0px 10px;
+  padding       : 5px;   /* 余白       */
+  border: 1px solid rgb(2,128,255);    /* 枠の指定 */
+
+}
+section.post-item {
+  padding-left: 30px;
+}
+
+.form1{
+  display: inline-block;
+}
+.sec-news{
+  padding:0px 20px;
+}
+.feedzy-rss ul{
+  margin:initial!important;
+}
+.paging-ul{
+  text-align: center;
+}
+.paging-li{
+  display: inline-block;
+  width: 25px;
+  height: 35px;
+  border: 1px solid rgb(2,128,255);
+  color: rgb(2,128,255);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 2.5;
+}
+.paging-li:hover{
+  color:white;
+  background-color: rgb(2,128,255);
+}
+
+.img-onoff{
+  display: inline;
+}
+.img-onoff-sp{
+  display: none;
+}
+
+
+/* レスポンシブ対応 750px */
+@media screen and (max-width:805px){
+
+  .main{
+    max-width: initial;
+    margin: 0px 30px;
+  }
+  .formnewinfo{
+    float: none;
+    text-align: center;
+  }
+  .e-m-searchform p,.e-m-eventlist form{
+    display: block;
+  }
+
+  input.searchtext{
+    width: 80%;
+    height: 30px;
+  }
+  input.categorytext{
+    width: 80%;
+    height: 30px;
+    margin:10px 0px 10px 0px;
+  }
+  .searchtitle{
+    display: none !important;
+  }
+  .searchtitle-sp{
+    display: inline;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    color:rgb(4,35,128);
+    width: 90%;
+    margin: 5%;
+    border-bottom: 2px solid rgb(4,35,128);
+  }
+  .e-m-eventlist{
+    width: 90%;
+  }
+  .e-m-searchform{
+    padding-top:15px;
+    width: 100%;
+    display: inline-block;
+  }
+  .e-m-eventnew{
+    width:100%;
+    margin-top:10px;
+    padding-bottom:50px;
+    border:1px solid rgba(200,200,200,1.0);
+  }
+
+  .img-onoff{
+    display: none;
+  }
+  .img-onoff-sp{
+    display: inline;
+  }
+}
